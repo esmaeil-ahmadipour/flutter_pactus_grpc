@@ -1,5 +1,9 @@
+# 0.1.2+3
+### [Document]
+- Fix README and update documentation [#3](https://github.com/esmaeil-ahmadipour/flutter_pactus_grpc/pull/4)
+
 # 0.1.1+2
-### [Feature]
+### [Document]
 - Fix README and update documentation [#3](https://github.com/esmaeil-ahmadipour/flutter_pactus_grpc/pull/4)
 
 # 0.1.0+1
