@@ -20,7 +20,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_pactus_grpc: ^0.1.1
+  flutter_pactus_grpc: ^0.1.2
 ```
 
 Then fetch the package:
