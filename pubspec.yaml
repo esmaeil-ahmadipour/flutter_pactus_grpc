@@ -1,6 +1,6 @@
 name: flutter_pactus_grpc
 description: gRPC client for Pactus blockchain. Generated gRPC code for Pactus blockchain services.
-version: 0.1.0+1
+version: 0.1.1+2
 homepage: https://github.com/esmaeil-ahmadipour/flutter_pactus_grpc
 
 environment:
